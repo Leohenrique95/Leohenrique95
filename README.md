@@ -21,7 +21,7 @@ estudante de Análise e Desenvolvimento de Sistemas ! ##
   <a href="https://www.linkedin.com/in/leonardo-henrique-203b872a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div>
-  <a href="https://leohenrique95.github.io/Meu-Portifolio/" target="_blank">
+  <a href="https://leohenrique95.github.io/Meu-Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/🖥️%20Meu%20Portfólio-%2300D4FF?style=for-the-badge&logoColor=black" />
 </a>
 </div>
